@@ -1,5 +1,6 @@
 package org.columbia.controller;
 
+import org.columbia.dto.ChatMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.handler.annotation.SendTo;

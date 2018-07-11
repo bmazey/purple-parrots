@@ -1,6 +1,6 @@
-package org.columbia.controller;
+package org.columbia.dto;
 
-public class ChatMessage  {
+public class ChatMessage {
     private MessageType type;
     private String content;
     private String sender;
@@ -34,5 +34,4 @@ public class ChatMessage  {
     public void setSender(String sender) {
         this.sender = sender;
     }
-
 }
