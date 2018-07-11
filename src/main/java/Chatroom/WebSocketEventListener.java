@@ -1,6 +1,5 @@
-package org.columbia.service;
+package Chatroom;
 
-import org.columbia.dto.ChatMessage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -11,6 +10,9 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.socket.messaging.SessionConnectedEvent;
 import org.springframework.web.socket.messaging.SessionDisconnectEvent;
 
+/**
+ * Created by rajeevkumarsingh on 25/07/17.
+ */
 @Component
 public class WebSocketEventListener {
 
