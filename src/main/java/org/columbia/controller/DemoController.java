@@ -16,6 +16,8 @@ import java.util.UUID;
 @RequestMapping("api")
 public class DemoController {
 
+
+
     /**
      * Spring controllers! testing ... retry
      */
@@ -26,7 +28,7 @@ public class DemoController {
     @RequestMapping(value = "/greeting", method = RequestMethod.GET)
     @ResponseBody
     public ResponseEntity<?> getGreeting() {
-        return new ResponseEntity<String>("hello!", HttpStatus.OK);
+        return new ResponseEntity<String>("spicy", HttpStatus.OK);
     }
 
     @RequestMapping(value = "/greeting/{id}", method = RequestMethod.GET)
