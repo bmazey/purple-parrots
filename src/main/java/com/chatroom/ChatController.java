@@ -1,4 +1,4 @@
-package Chatroom;
+package com.chatroom;
 
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
