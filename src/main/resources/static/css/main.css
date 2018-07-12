@@ -17,7 +17,7 @@ body {
     font-size: 1rem;
     line-height: 1.58;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: #b292cc;
     height: 100%;
 }
 
@@ -93,7 +93,7 @@ button.default {
 }
 
 button.primary {
-    background-color: #b292cc;
+    background-color: #7f5e93;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.12);
     color: #fff;
 }
