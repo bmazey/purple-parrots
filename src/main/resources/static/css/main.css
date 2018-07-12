@@ -93,13 +93,13 @@ button.default {
 }
 
 button.primary {
-    background-color: #128ff2;
+    background-color: #b292cc;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.12);
     color: #fff;
 }
 
 button.accent {
-    background-color: #ff4743;
+    background-color: #7f5e93;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.12);
     color: #fff;
 }
@@ -215,7 +215,7 @@ button.accent {
 }
 
 #chat-page .chat-message p {
-    color: #
+    color: #b292cc
 
 }
 
