@@ -1,5 +1,6 @@
-package com.chatroom;
+package com.chatroom.controller;
 
+import com.chatroom.dto.ChatMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.handler.annotation.SendTo;

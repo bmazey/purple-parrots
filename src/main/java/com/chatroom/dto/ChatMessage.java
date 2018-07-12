@@ -1,4 +1,4 @@
-package com.chatroom;
+package com.chatroom.dto;
 
 /**
  * Created by rajeevkumarsingh on 24/07/17.

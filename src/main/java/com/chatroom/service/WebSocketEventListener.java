@@ -1,5 +1,6 @@
-package com.chatroom;
+package com.chatroom.service;
 
+import com.chatroom.dto.ChatMessage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
